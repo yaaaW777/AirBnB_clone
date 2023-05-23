@@ -1,1 +1,1 @@
-s readme file gives you all about HTML5 and CSS3
+This readme file is just for the web_static under AirBnB clone
